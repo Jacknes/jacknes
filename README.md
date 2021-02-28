@@ -4,7 +4,7 @@ My name is Jack and I’m a full stack developer and coffee fanatic from Sydney,
 
 You can check out my currently WIP (broken) website at [pascoe.dev](https://pascoe.dev/)
 
-- ⚡️ I’m currently working at Kablamo.
+- ⚡️ I’m currently working at [Kablamo](https://www.kablamo.com.au/).
 - 🍎 Previously at Nine Digital and Apple.
 - 👨🏻‍💻 I primarily work on React, Typescript Applications but am willing to learn anything.
 - 🤓 Currently learning GO Lang and more about AWS.
