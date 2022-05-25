@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jack and I’m a full stack developer and coffee fanatic from Sydney, Australia. I like working in an agile environment building software I really care about. I believe I’m a good leader, communicator and problem solver.
+My name is Jack and I’m a full stack developer and coffee fanatic from Sydney, Australia currently living in Toronto, Canada! I like working in an agile environment building software I really care about. I believe I’m a good leader, communicator and problem solver.
 
 You can check out my currently WIP (broken) website at [pascoe.dev](https://pascoe.dev/)
 
